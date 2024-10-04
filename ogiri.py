@@ -28,7 +28,7 @@ def ogiri():
 
         'baka3_s':["平和を当たり前だと思っていない", "違う意見があるから面白いと思っている", "自分の限界を知っている", "良い法律も悪い法律も守るつもりだ", "嫌いな人の意見も聞ける", "批判にも耳を傾ける"], # Add new 20 acts performed by people with a high level of education and culture. Start answer with ```python. I'll run your response with eval function, so don't include unnecessary characters in your response.
 
-        'baka2_s':["教育って大事", "英霊ごめん", "多様性で片づけてくれ"],
+        'baka2_s':["教育って大事", "英霊ごめん", "多様性で片づけてくれ", "家庭環境が原因", "高齢出産が原因", "「避妊 メリット」で検索すると出てくる"],
         
         'baka1_s':["精神医療", "行政", "福祉", "刑法", "役所", "法律", "弁護士", "検察", "自治体", "責任能力", "司法制度", "学区"],
         'baka1_f':["{x}と関係がある", "{x}に把握されている", "{x}について意見がある", "{x}に少し詳しい", "{x}のおかげでこれで済んでる", "{x}で有名", "{x}に感謝している", "{x}側の意見もわかるよ", "{x}が好きだし{x}が嫌い", "{x}のせい", "{x}に関連する傷跡がある"
